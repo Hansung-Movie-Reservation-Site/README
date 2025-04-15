@@ -8,7 +8,8 @@ CINEMAGIX's README
 ![image](https://github.com/user-attachments/assets/0d06bf83-fa0b-4403-8521-dc605f21c621)
 
 # 기능 구성도
-![KakaoTalk_20250220_232926912](https://github.com/user-attachments/assets/2ec2ff47-f147-4e0a-829a-da80e7354fb9)
+![KakaoTalk_20250220_181602837](https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06)
+
 
 # API 명세서
  // 명세서 복붙
