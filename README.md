@@ -5,7 +5,8 @@ CINEMAGIX's README
 # 프로젝트 소개 // 2
 # 기술 스택 // 3
 # 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/e4e48741-414f-4cad-bb5a-a01499c5307b)
+![image](https://github.com/user-attachments/assets/0d06bf83-fa0b-4403-8521-dc605f21c621)
+
 # 기능 구성도
  // 기능 구성도 복붙
 # API 명세서
