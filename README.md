@@ -1,7 +1,6 @@
 # README
 CINEMAGIX's README
 
-# 인트로
 # 목차
 # 프로젝트 소개
 # 기술 스택
