@@ -24,7 +24,11 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 
 # API 명세서
  // 명세서 복붙
-# 코드 저장소 // 4
+# 코드 저장소
+- nextjs: https://github.com/Hansung-Movie-Reservation-Site/frontend
+- android: https://github.com/Hansung-Movie-Reservation-Site/flutter
+- ios: https://github.com/Hansung-Movie-Reservation-Site/flutter
+- spring boot: https://github.com/Hansung-Movie-Reservation-Site/backend
 # 시연 영상
  // 추후
 # 작년 우수팀 비교표
