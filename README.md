@@ -24,5 +24,5 @@ CINEMAGIX's README
 |AI|황준익|[@codingsimul](https://github.com/codingsimul)|
 |백엔드|김용민|[@whereful](https://github.com/whereful)|
 |프론트엔드|박기윤|[@parkgiyun](https://github.com/parkgiyun)|
-|iOS|강현영|[@hyunyoung515](https://github.com/hyungyoung515)|
+|iOS|강현영|[@hyunyoung515](https://github.com/hyunyoung515)|
 |Android|조현성|[@jhs0112](https://github.com/jhs0112)|
