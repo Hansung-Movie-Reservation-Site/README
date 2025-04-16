@@ -19,3 +19,10 @@ CINEMAGIX's README
 # 작년 우수팀 비교표
  // 추후
 # 팀원 소개 // 5
+|역할|이름|Github|
+|------|---|---|
+|AI|황준익|[@codingsimul](https://github.com/codingsimul)|
+|백엔드|김용민|[@whereful](https://github.com/whereful)|
+|프론트엔드|박기윤|[@parkgiyun](https://github.com/parkgiyun)|
+|iOS|강현영|[@hyunyoung515](https://github.com/hyungyoung515)|
+|Android|조현성|[@jhs0112](https://github.com/jhs0112)|
