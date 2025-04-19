@@ -52,7 +52,7 @@ CICD
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/githubactions-E34F26?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-E34F26?style=flat-square&logo=githubactions&logoColor=white"/>
 
 AI
 <img src="https://img.shields.io/badge/openai-FFCA28?style=flat-square&logo=openai&logoColor=black"/>
