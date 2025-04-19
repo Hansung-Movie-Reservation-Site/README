@@ -16,7 +16,8 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 
 # 기술 스택 // 3
 # 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/0d06bf83-fa0b-4403-8521-dc605f21c621)
+![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
+
 
 # 기능 구성도
 ![KakaoTalk_20250220_181602837](https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06)
