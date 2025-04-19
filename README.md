@@ -113,8 +113,11 @@ AI
 |AppStore/GooglePlay|.|❌	|❌	|❌	|❌	|
 
 최우수 : https://github.com/capstone-aloha
+
 우수1 : https://github.com/TeamCookCaps
+
 우수2 : https://github.com/godi00/capstone
+
 우수3 : https://github.com/Capic2024/server-flask
 
 ## 팀원 소개
