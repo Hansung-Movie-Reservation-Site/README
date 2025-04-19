@@ -79,15 +79,17 @@ AI
 ## 기능 구성도
 <details>
   <summary>📌 클릭해서 자세한 내용 보기</summary>
-![KakaoTalk_20250220_181602837](https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06)
+  <img src="https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06" alt="KakaoTalk_20250220_181602837" />
 </details>
+
 
 ## API 명세서
  // 명세서 복붙
  <details>
   <summary>📌 클릭해서 자세한 내용 보기</summary>
-//
+// 위에랑 비슷하게 구성하기
 </details>
+
 ## 코드 저장소
 - nextjs: https://github.com/Hansung-Movie-Reservation-Site/frontend
 - android: https://github.com/Hansung-Movie-Reservation-Site/flutter
