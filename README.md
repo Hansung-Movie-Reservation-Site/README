@@ -107,7 +107,7 @@ AI
 |영상|.|✅|✅|❌	|❌	|❌	|
 |화면|.|R|R|R|R|
 |AppStore/GooglePlay|.|❌	|❌	|❌	|❌	|
-## 팀원 소개 // 5
+## 팀원 소개
 |역할|이름|Github|
 |------|---|---|
 |AI|황준익|[@codingsimul](https://github.com/codingsimul)|
