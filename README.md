@@ -45,7 +45,7 @@ BACKEND
 
 <img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=java&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/springboot-008000?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-008000?style=flat-square&logo=springboot&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 
