@@ -32,6 +32,7 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 ![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
 
 FRONT
+
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -41,6 +42,7 @@ FRONT
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
 BACKEND
+
 <img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=java&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/springboot-FFCA28?style=flat-square&logo=springboot&logoColor=black"/>
@@ -52,12 +54,17 @@ BACKEND
 <img src="https://img.shields.io/badge/Websocket-FFCA28?style=flat-square&logo=socket&logoColor=black"/>
 
 CICD
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+
 <img src="https://img.shields.io/badge/githubactions-E34F26?style=flat-square&logo=githubactions&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/amazonec2-FFCA28?style=flat-square&logo=amazonec2&logoColor=black"/> 
+
 <img src="https://img.shields.io/badge/amazonrds-FFCA28?style=flat-square&logo=amazonrds&logoColor=black"/> 
+
 <img src="https://img.shields.io/badge/amazonelasticache-FFCA28?style=flat-square&logo=amazonelasticache&logoColor=black"/> 
+
 <img src="https://img.shields.io/badge/amazonecr-FFCA28?style=flat-square&logo=amazonwebservices&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
