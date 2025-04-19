@@ -35,7 +35,7 @@ FRONT
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Dart-007396?style=flat-square&logo=dart&logoColor=black"/>
 
@@ -67,7 +67,7 @@ CICD
 
 <img src="https://img.shields.io/badge/amazonecr-FFA500?style=flat-square&logo=amazonwebservices&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
 AI
 
