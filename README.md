@@ -30,6 +30,10 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 
 ## 기술 스택
 
+
+<details>
+  <summary>📌 클릭해서 자세한 내용 보기</summary>
+  
 FRONT
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black"/>
@@ -70,7 +74,8 @@ CICD
 
 AI
 
-<img src="https://img.shields.io/badge/openai-00FF00?style=flat-square&logo=openai&logoColor=black"/> 
+<img src="https://img.shields.io/badge/openai-00FF00?style=flat-square&logo=openai&logoColor=black"/>
+</details>
 
 ## 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
