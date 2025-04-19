@@ -33,29 +33,37 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 
 FRONT
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/dart-007396?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-007396?style=flat-square&logo=dart&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
 BACKEND
+<img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=java&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/springboot-FFCA28?style=flat-square&logo=springboot&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/socket-FFCA28?style=flat-square&logo=socket&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Websocket-FFCA28?style=flat-square&logo=socket&logoColor=black"/>
 
 CICD
-<img src="https://img.shields.io/badge/amazonec2-FFCA28?style=flat-square&logo=amazonec2&logoColor=black"/>
-<img src="https://img.shields.io/badge/amazonrds-FFCA28?style=flat-square&logo=amazonrds&logoColor=black"/>
-<img src="https://img.shields.io/badge/amazonelasticache-FFCA28?style=flat-square&logo=amazonelasticache&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/githubactions-E34F26?style=flat-square&logo=githubactions&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/amazonec2-FFCA28?style=flat-square&logo=amazonec2&logoColor=black"/> 
+<img src="https://img.shields.io/badge/amazonrds-FFCA28?style=flat-square&logo=amazonrds&logoColor=black"/> 
+<img src="https://img.shields.io/badge/amazonelasticache-FFCA28?style=flat-square&logo=amazonelasticache&logoColor=black"/> 
 <img src="https://img.shields.io/badge/amazonecr-FFCA28?style=flat-square&logo=amazonwebservices&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/githubactions-E34F26?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
 AI
-<img src="https://img.shields.io/badge/openai-FFCA28?style=flat-square&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/openai-FFCA28?style=flat-square&logo=openai&logoColor=black"/> 
 
 ## 기능 구성도
 ![KakaoTalk_20250220_181602837](https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06)
