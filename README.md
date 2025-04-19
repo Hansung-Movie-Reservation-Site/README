@@ -45,7 +45,11 @@ BACKEND
 <img src="https://img.shields.io/badge/socket-FFCA28?style=flat-square&logo=socket&logoColor=black"/>
 
 CICD
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonec2-FFCA28?style=flat-square&logo=amazonec2&logoColor=black"/>
+<img src="https://img.shields.io/badge/amazonrds-FFCA28?style=flat-square&logo=amazonrds&logoColor=black"/>
+<img src="https://img.shields.io/badge/amazonelasticache-FFCA28?style=flat-square&logo=amazonelasticache&logoColor=black"/>
+<img src="https://img.shields.io/badge/amazonecr-FFCA28?style=flat-square&logo=amazonwebservices&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/githubactions-E34F26?style=for-the-badge&logo=githubactions&logoColor=white">
