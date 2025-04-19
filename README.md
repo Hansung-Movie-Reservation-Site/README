@@ -32,6 +32,7 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 ![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
 
 <img src="https://img.shields.io/badge/githubactions-#2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 ## 기능 구성도
 ![KakaoTalk_20250220_181602837](https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06)
 
