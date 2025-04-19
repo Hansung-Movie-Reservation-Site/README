@@ -59,13 +59,13 @@ CICD
 
 <img src="https://img.shields.io/badge/githubactions-E34F26?style=flat-square&logo=githubactions&logoColor=black"/> 
 
-<img src="https://img.shields.io/badge/amazonec2-FFA500?style=flat-square&logo=amazonec2&logoColor=black"/> 
+<img src="https://img.shields.io/badge/amazonec2-FF8C00?style=flat-square&logo=amazonec2&logoColor=black"/> 
 
-<img src="https://img.shields.io/badge/amazonrds-FFA500?style=flat-square&logo=amazonrds&logoColor=black"/> 
+<img src="https://img.shields.io/badge/amazonrds-FF8C00?style=flat-square&logo=amazonrds&logoColor=black"/> 
 
-<img src="https://img.shields.io/badge/amazonelasticache-FFA500?style=flat-square&logo=amazonelasticache&logoColor=black"/> 
+<img src="https://img.shields.io/badge/amazonelasticache-FF8C00?style=flat-square&logo=amazonelasticache&logoColor=black"/> 
 
-<img src="https://img.shields.io/badge/amazonecr-FFA500?style=flat-square&logo=amazonwebservices&logoColor=black"/>
+<img src="https://img.shields.io/badge/amazonecr-FF8C00?style=flat-square&logo=amazonwebservices&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
