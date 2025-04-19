@@ -84,10 +84,9 @@ AI
 
 
 ## API 명세서
- // 명세서 복붙
  <details>
   <summary>📌 클릭해서 자세한 내용 보기</summary>
-// 위에랑 비슷하게 구성하기
+<img src= "https://github.com/user-attachments/assets/10ef2e4d-7459-4133-a173-66c814102afb"/>
 </details>
 
 ## 코드 저장소
