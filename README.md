@@ -28,9 +28,7 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 - 이메일 인증 및 암호화를 통한 사용자 인증
 - 다양한 디바이스에 최적화된 반응형 웹 디자인
 
-## 기술 스택 // 3
-## 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
+## 기술 스택
 
 FRONT
 
@@ -73,6 +71,9 @@ CICD
 AI
 
 <img src="https://img.shields.io/badge/openai-00FF00?style=flat-square&logo=openai&logoColor=black"/> 
+
+## 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
 
 ## 기능 구성도
 ![KakaoTalk_20250220_181602837](https://github.com/user-attachments/assets/170c9a3b-94b3-45c0-821f-65ba4267df06)
