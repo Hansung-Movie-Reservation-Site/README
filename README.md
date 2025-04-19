@@ -33,8 +33,6 @@ AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 �
 
 FRONT
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
