@@ -48,15 +48,11 @@ FRONT
 
 BACKEND
 
-<img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-FFCA28?style=for-the-badge&logo=java&logoColor=white">
 
-<img src="https://img.shields.io/badge/springboot-008000?style=flat-square&logo=springboot&logoColor=black"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Firebase-808080?style=flat-square&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Websocket-FFCA28?style=flat-square&logo=socket&logoColor=black"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 DEVOPS
 
