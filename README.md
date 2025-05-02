@@ -62,28 +62,31 @@ BACKEND
 
 DEVOPS
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"/> 
 
-<img src="https://img.shields.io/badge/githubactions-E34F26?style=flat-square&logo=githubactions&logoColor=black"/> 
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/amazonec2-FF8C00?style=flat-square&logo=amazonec2&logoColor=black"/> 
-
-<img src="https://img.shields.io/badge/amazonrds-FF8C00?style=flat-square&logo=amazonrds&logoColor=black"/> 
-
-<img src="https://img.shields.io/badge/amazonelasticache-FF8C00?style=flat-square&logo=amazonelasticache&logoColor=black"/> 
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/amazonecr-FF8C00?style=flat-square&logo=amazonwebservices&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=vercel&logoColor=white">
+
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 <img src="https://img.shields.io/badge/nginx-F8DC75?style=for-the-badge&logo=nginx&logoColor=green">
 
 AI
 
 <img src="https://img.shields.io/badge/openai-00FF00?style=flat-square&logo=openai&logoColor=black"/>
-</details>
 
-security
+협업
+
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+
+</details>
 
 
 
