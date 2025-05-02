@@ -62,15 +62,11 @@ BACKEND
 
 DEVOPS
 
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"/> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
-<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/amazonecr-FF8C00?style=flat-square&logo=amazonwebservices&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
