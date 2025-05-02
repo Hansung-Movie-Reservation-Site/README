@@ -44,6 +44,8 @@ FRONT
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=html5&logoColor=white">
+
 BACKEND
 
 <img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=java&logoColor=black"/>
@@ -56,7 +58,7 @@ BACKEND
 
 <img src="https://img.shields.io/badge/Websocket-FFCA28?style=flat-square&logo=socket&logoColor=black"/>
 
-CICD
+DEVOPS
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/> 
 
@@ -72,10 +74,16 @@ CICD
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
+<img src="https://img.shields.io/badge/nginx-F8DC75?style=for-the-badge&logo=nginx&logoColor=green">
+
 AI
 
 <img src="https://img.shields.io/badge/openai-00FF00?style=flat-square&logo=openai&logoColor=black"/>
 </details>
+
+security
+
+
 
 ## 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
