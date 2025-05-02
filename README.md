@@ -83,7 +83,7 @@ AI
 
 
 ## 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/f9321763-e469-4833-8424-5acb75e95be4)
+![화면 캡처 2025-05-02 225813](https://github.com/user-attachments/assets/d1d1f231-a0df-47ec-af2f-3b41226dc5ad)
 
 
 ## 기능 구성도
