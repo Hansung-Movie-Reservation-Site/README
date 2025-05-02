@@ -76,13 +76,7 @@ DEVOPS
 
 AI
 
-<img src="https://img.shields.io/badge/openai-00FF00?style=flat-square&logo=openai&logoColor=black"/>
-
-협업
-
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/openai-00FF00?style=for-the-badge&logo=openai&logoColor=black">
 
 </details>
 
