@@ -108,7 +108,7 @@ AI
 - nexyjs 웹 시연영상: [nextjs 시연영상](#1) https://youtu.be/liZyz5M6gio
 - nextjs 모바일 시연영상: [nextjs 모바일영상](#1) AWS 미연동으로 인하여 시연 불가. 크롬 개발자 도구를 통한 웹 시연 영상 참고
 - ios 시연영상: [ios 시연영상](#3) https://youtu.be/Emfm_aBe_Wo
-- android 시연영상: [Android 시연영상](#4) https://youtu.be/Emfm_aBe_Wo
+- android 시연영상: [Android 시연영상](#4) https://youtu.be/gGXSVGcfHWY
 ## 작년 우수팀 비교표
 | |Cinemagix|최우수|우수1|우수2|우수3|
 |------|---|---|---|---|---|
