@@ -105,8 +105,8 @@ AI
 - ios: https://github.com/Hansung-Movie-Reservation-Site/flutter
 - spring boot: https://github.com/Hansung-Movie-Reservation-Site/backend
 ## 시연 영상
-- nexyjs 웹 시연영상: [nextjs 시연영상](#1)
-- nextjs 모바일 시연영상: [nextjs 모바일영상](#1)
+- nexyjs 웹 시연영상: [nextjs 시연영상](#1) https://youtu.be/liZyz5M6gio
+- nextjs 모바일 시연영상: [nextjs 모바일영상](#1) AWS 미연동으로 인하여 시연 불가. 크롬 개발자 도구를 통한 웹 시연 영상 참고
 - ios 시연영상: [ios 시연영상](#3) https://youtu.be/Emfm_aBe_Wo
 - android 시연영상: [Android 시연영상](#4)
 ## 작년 우수팀 비교표
