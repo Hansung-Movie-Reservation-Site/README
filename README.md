@@ -115,8 +115,8 @@ AI
 |Code|.|✅ |✅ |✅ |✅ |✅ |
 |Doc|.|✅ |✅ |✅ |❌ |✅ |
 |영상|.|✅|✅|❌	|❌	|❌	|
-|화면|.|R|R|R|R|
-|AppStore/GooglePlay|.|❌	|❌	|❌	|❌	|
+|화면|I,A,N|R|R|R|R|
+|GooglePlay|❌ |❌	|❌	|❌	|❌	|
 
 최우수 : https://github.com/capstone-aloha
 
