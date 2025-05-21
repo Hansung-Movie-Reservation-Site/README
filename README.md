@@ -11,10 +11,10 @@ CINEMAGIX's README
 5. [기능 구성도](#기능-구성도)
 6. [API 명세서](#api-명세서)
 7. [코드 저장소](#코드-저장소)
-8. [시연 영상](#시연-영상)
-9. [작년 우수팀 비교표](#작년-우수팀-비교표)
-10. [팀원 소개](#팀원-소개)
-
+8. [APP 설치](#APP-설치)
+9. [시연 영상](#시연-영상)
+10. [작년 우수팀 비교표](#작년-우수팀-비교표)
+11. [팀원 소개](#팀원-소개)
 
 ## 🎬 프로젝트 소개
 AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 플랫폼입니다.
@@ -104,6 +104,10 @@ AI
 - android: https://github.com/Hansung-Movie-Reservation-Site/flutter
 - ios: https://github.com/Hansung-Movie-Reservation-Site/flutter
 - spring boot: https://github.com/Hansung-Movie-Reservation-Site/backend
+
+## APP 설치
+- 구글 플레이: https://github.com/Hansung-Movie-Reservation-Site/README
+
 ## 시연 영상
 - next.js 웹 시연영상: [nextjs 시연영상](https://youtu.be/liZyz5M6gio)
 - next.js 모바일 시연영상: [nextjs 모바일영상](https://youtube.com/shorts/bHx71rriMj4)
