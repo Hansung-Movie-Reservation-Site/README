@@ -96,7 +96,7 @@ AI
 ## API 명세서
  <details>
   <summary>📌 클릭해서 자세한 내용 보기</summary>
-<img src= "https://github.com/user-attachments/assets/10ef2e4d-7459-4133-a173-66c814102afb"/>
+<img src= "https://github.com/user-attachments/assets/1dcfb303-cb18-49ab-a869-0f26375be3e0"/>
 </details>
 
 ## 코드 저장소
