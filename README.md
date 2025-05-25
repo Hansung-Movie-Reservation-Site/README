@@ -112,7 +112,7 @@ AI
 - next.js 웹 시연영상: [nextjs 시연영상](https://youtu.be/liZyz5M6gio)
 - next.js 모바일 시연영상: [nextjs 모바일영상](https://youtube.com/shorts/bHx71rriMj4)
 - ios 시연영상: [ios 시연영상](https://youtu.be/RxiCLHUCrh0)
-- android 시연영상: [Android 시연영상](https://youtu.be/gGXSVGcfHWY)
+- android 시연영상: [Android 시연영상](https://youtu.be/i1oxKjdEzAM)
 ## 작년 우수팀 비교표
 | |Cinemagix|최우수|우수1|우수2|우수3|
 |------|---|---|---|---|---|
