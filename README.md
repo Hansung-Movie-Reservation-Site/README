@@ -106,7 +106,7 @@ AI
 - spring boot: https://github.com/Hansung-Movie-Reservation-Site/backend
 
 ## APP 설치
-- 구글 플레이: [구글 플레이](https://github.com/Hansung-Movie-Reservation-Site/README)
+- 구글 플레이: [구글 플레이](https://play.google.com/store/apps/details?id=com.cinemagix.movie)
 
 ## 시연 영상
 - next.js 웹 시연영상: [nextjs 시연영상](https://youtu.be/liZyz5M6gio)
