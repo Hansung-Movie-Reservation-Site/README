@@ -110,7 +110,7 @@ AI
 
 ## 시연 영상
 - [next.js 웹 시연영상](https://youtu.be/80vigoUQg50)
-- [next.js 모바일 시연영상](https://youtube.com/shorts/bHx71rriMj4)
+- [next.js 모바일 시연영상](https://youtu.be/LvOMuIQDPPI)
 - [ios 시연영상](https://youtu.be/zrf_Lr6B3SM)
 - [Android 시연영상](https://youtu.be/Dx5j4l1BNkg)
 ## 작년 우수팀 비교표
