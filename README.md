@@ -1,6 +1,9 @@
 # README
 CINEMAGIX's README
 
+![KakaoTalk_20250530_165638376_01](https://github.com/user-attachments/assets/6b45935e-250e-4db9-9d92-1d7503aedfae)
+
+
 # 목차
 
 - [홈페이지](https://cinemagix-xi.vercel.app/)
