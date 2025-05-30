@@ -1,8 +1,9 @@
 # README
 CINEMAGIX's README
 
+팀원 단체 사진
 ![KakaoTalk_20250530_165638376_01](https://github.com/user-attachments/assets/6b45935e-250e-4db9-9d92-1d7503aedfae)
-
+팀원(왼쪽부터): 황준익 강현영 조현성 김용민 박기윤
 
 # 목차
 
