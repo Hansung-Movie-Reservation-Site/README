@@ -1,24 +1,33 @@
 # README
 CINEMAGIX's README
 
-# 팀원 단체 사진
-![KakaoTalk_20250530_165638376_01](https://github.com/user-attachments/assets/6b45935e-250e-4db9-9d92-1d7503aedfae)
-팀원(왼쪽부터): 황준익 강현영 조현성 김용민 박기윤
-
 # 목차
 
 - [홈페이지](https://cinemagix-xi.vercel.app/)
-1. [프로젝트 소개](#프로젝트-소개)
-2. [핵심 기능](#핵심기능)
-3. [기술 스택](#기슬-스택)
-4. [시스템 아키텍처](#시스템-아키텍처)
-5. [기능 구성도](#기능-구성도)
-6. [API 명세서](#api-명세서)
-7. [코드 저장소](#코드-저장소)
-8. [APP 설치](#APP-설치)
-9. [시연 영상](#시연-영상)
-10. [작년 우수팀 비교표](#작년-우수팀-비교표)
-11. [팀원 소개](#팀원-소개)
+1. [팀원 소개](#팀원-소개)
+2. [프로젝트 소개](#프로젝트-소개)
+3. [핵심 기능](#핵심기능)
+4. [기술 스택](#기슬-스택)
+5. [시스템 아키텍처](#시스템-아키텍처)
+6. [기능 구성도](#기능-구성도)
+7. [API 명세서](#api-명세서)
+8. [코드 저장소](#코드-저장소)
+9. [APP 설치](#APP-설치)
+10. [시연 영상](#시연-영상)
+11. [작년 우수팀 비교표](#작년-우수팀-비교표)
+
+## 👥 팀원 소개
+![KakaoTalk_20250530_165638376_01](https://github.com/user-attachments/assets/6b45935e-250e-4db9-9d92-1d7503aedfae)
+
+### 팀원(왼쪽부터)
+|역할|이름|Github|
+|------|---|---|
+|AI|황준익|[@codingsimul](https://github.com/codingsimul)|
+|iOS|강현영|[@hyunyoung515](https://github.com/hyunyoung515)|
+|Android|조현성|[@jhs0112](https://github.com/jhs0112)|
+|백엔드|김용민|[@whereful](https://github.com/whereful)|
+|프론트엔드|박기윤|[@parkgiyun](https://github.com/parkgiyun)|
+
 
 ## 🎬 프로젝트 소개
 AI 기반 영화 추천과 예매 기능을 제공하는 통합 영화 예매 플랫폼입니다.
@@ -133,12 +142,3 @@ AI
 우수2 : https://github.com/godi00/capstone
 
 우수3 : https://github.com/Capic2024/server-flask
-
-## 팀원 소개
-|역할|이름|Github|
-|------|---|---|
-|AI|황준익|[@codingsimul](https://github.com/codingsimul)|
-|백엔드|김용민|[@whereful](https://github.com/whereful)|
-|프론트엔드|박기윤|[@parkgiyun](https://github.com/parkgiyun)|
-|iOS|강현영|[@hyunyoung515](https://github.com/hyunyoung515)|
-|Android|조현성|[@jhs0112](https://github.com/jhs0112)|
